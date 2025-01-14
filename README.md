@@ -1,1 +1,3 @@
-# friendly-telegram
+# Task Manager
+
+A personal simple project :)
